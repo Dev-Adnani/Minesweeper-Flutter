@@ -49,3 +49,8 @@ You can adjust the default settings in the `MineSweeperGame` class. The default 
 static const int row = 6;
 static const int col = 6;
 static const int minesNo = 10;
+
+
+
+## Feedback
+If you have any feedback, please reach out to us at dev.adnani26@gmail.com
